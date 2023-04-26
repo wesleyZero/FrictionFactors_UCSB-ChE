@@ -12,3 +12,43 @@ I wanted to use python to plot and manipulate data for my engineering lab class.
 
 ## Plots I created using my 'ChEplot' tool
 
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github.com/wesleyZero/FrictionFactors_UCSB-ChE/blob/main/README_RESOURCES/0_plot.png?raw=true" align="left" style="width: 100%" />  
+
+
+</td><td valign="top" width="50%">
+
+<img src="https://github.com/wesleyZero/FrictionFactors_UCSB-ChE/blob/main/README_RESOURCES/1_plot.png?raw=true" align="left" style="width: 100%" />  
+
+
+</td></tr></table>  
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github.com/wesleyZero/FrictionFactors_UCSB-ChE/blob/main/README_RESOURCES/2_plot.png?raw=true" align="left" style="width: 100%" />  
+
+
+</td><td valign="top" width="50%">
+
+<img src="https://github.com/wesleyZero/FrictionFactors_UCSB-ChE/blob/main/README_RESOURCES/logRe_logf.png?raw=true" align="left" style="width: 100%" />  
+
+
+</td></tr></table>  
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github.com/wesleyZero/FrictionFactors_UCSB-ChE/blob/main/README_RESOURCES/transducer_psi_mA.png?raw=true" align="left" style="width: 100%" />  
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>
+<br />
